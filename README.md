@@ -1,0 +1,4 @@
+HelsingborgOpenSensorNetwork
+============================
+
+Helsingborgs öppna sensornätverk 
